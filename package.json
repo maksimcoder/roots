@@ -1,12 +1,6 @@
 {
-    "name": "gulp-scss-starter",
-    "description": "Frontend development with pleasure",
-    "author": "Andrey Gorokhov",
-    "license": "GPL-3.0-only",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/andreyalexeich/gulp-scss-starter.git"
-    },
+    "name": "roots",
+    "author": "Maksim deviatilov",
     "scripts": {
         "dev": "gulp",
         "build": "gulp prod --production",
